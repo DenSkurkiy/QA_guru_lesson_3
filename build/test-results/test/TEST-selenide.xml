@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="selenide" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-08T08:16:17" hostname="MacBook-Pro-Denis.local" time="6.805">
+<testsuite name="selenide" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-09T13:56:03" hostname="MacBook-Pro-Denis.local" time="11.59">
   <properties/>
-  <testcase name="ShootFineSelenide()" classname="selenide" time="6.805"/>
+  <testcase name="ShootFineSelenide()" classname="selenide" time="11.59"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 13 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /Users/denis/IdeaProjects/QA_Guru_Lesson_3/build/downloads/1612772177992_1516_13
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /Users/denis/IdeaProjects/QA_Guru_Lesson_3/build/downloads/1612878963491_7506_13
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/denis/.cache/selenium/chromedriver/mac64/88.0.4324.96/chromedriver
-Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 38967
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 46027
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-февр. 08, 2021 10:16:20 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+февр. 09, 2021 3:56:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
-[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=88.0.4324.146 Platform=MAC
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=88.0.4324.150 Platform=MAC
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.18.0
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on MAC (5ed5d632ef0135c89ccd621748b783de)
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on MAC (e9b5d0113d38820e6fa4ffd5a9ab265e)
 ]]></system-err>
 </testsuite>
